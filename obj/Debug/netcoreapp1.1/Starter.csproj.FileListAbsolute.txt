@@ -1,0 +1,10 @@
+/Users/leewatterson/Downloads/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.deps.json
+/Users/leewatterson/Downloads/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.runtimeconfig.json
+/Users/leewatterson/Downloads/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.runtimeconfig.dev.json
+/Users/leewatterson/Downloads/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.dll
+/Users/leewatterson/Downloads/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.pdb
+/Users/leewatterson/Downloads/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.csproj.CoreCompileInputs.cache
+/Users/leewatterson/Downloads/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.AssemblyInfoInputs.cache
+/Users/leewatterson/Downloads/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.AssemblyInfo.cs
+/Users/leewatterson/Downloads/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.dll
+/Users/leewatterson/Downloads/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.pdb
